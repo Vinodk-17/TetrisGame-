@@ -1,6 +1,6 @@
 # TetrisGame
 Tetris, a simple Javascript Game
-## DiscriptioN
+## Discription
 A Simple gaming website using Vanilla javascript .
 ## Tech Stack 
 Html , Css , Javascript
